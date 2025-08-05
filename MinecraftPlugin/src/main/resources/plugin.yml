@@ -1,0 +1,19 @@
+name: MineWebStore
+version: 1.0.0
+main: com.github.Akaliix.MineWebStore.MineWebStorePlugin
+api-version: '1.18'
+description: WordPress WooCommerce integration plugin for Minecraft servers
+author: Akaliix
+website: https://github.com/Akaliix
+
+commands:
+  mws:
+    description: MineWebStore plugin commands
+    usage: /mws <reload|status|test>
+    permission: mws.admin
+    aliases: [minewebstore]
+
+permissions:
+  mws.admin:
+    description: Access to MineWebStore admin commands
+    default: op
