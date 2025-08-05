@@ -24,31 +24,39 @@
 - **Bulk Operations**: Bulk management of commands and orders through WordPress admin
 - **Custom Order Statuses**: Dedicated order statuses for Minecraft-related processing
 
-## � Screenshots
+## 🖼️ Screenshots
+
+<details>
+<summary>📱 Click to view screenshots</summary>
 
 ### WordPress Admin Panel
-![WordPress Admin Panel - Main View](images/screenshots/wp-admin-panel-1.png)
+<img src="images/screenshots/wp-admin-panel-1.png" alt="WordPress Admin Panel - Main View" width="600">
+
 *Main WordPress admin panel showing MineWebStore integration settings*
 
-![WordPress Admin Panel - Configuration](images/screenshots/wp-admin-panel-2.png)
+<img src="images/screenshots/wp-admin-panel-2.png" alt="WordPress Admin Panel - Configuration" width="600">
+
 *Detailed configuration panel for server management and settings*
 
 ### WooCommerce Product Configuration
-![WooCommerce Product Data](images/screenshots/woocommerce-add-new-product-data.png)
+<img src="images/screenshots/woocommerce-add-new-product-data.png" alt="WooCommerce Product Data" width="600">
+
 *Product configuration page showing Minecraft integration settings and command configuration*
 
 ### Customer Checkout Experience
-![Payment Page - Player Name Success](images/screenshots/payment-page-playername-success.png)
-*Successful player name validation during checkout process*
+<img src="images/screenshots/payment-page-playername-success.png" alt="Payment Page - Player Name Success" width="500">
+<img src="images/screenshots/payment-page-playername-fail.png" alt="Payment Page - Player Name Validation Failed" width="500">
 
-![Payment Page - Player Name Validation Failed](images/screenshots/payment-page-playername-fail.png)
-*Player name validation error when username doesn't exist on the server*
+*Left: Successful player name validation | Right: Player name validation error*
 
 ### Minecraft Server Integration
-![Minecraft Server Logs](images/screenshots/minecraft-server-logs.png)
+<img src="images/screenshots/minecraft-server-logs.png" alt="Minecraft Server Logs" width="600">
+
 *Server console showing MineWebStore plugin activity and command execution logs*
 
-## �📋 Requirements
+</details>
+
+## 📋 Requirements
 
 ### WordPress Component
 - **WordPress**: 6.0 or higher (tested up to 6.8.2)
