@@ -31,8 +31,8 @@ The WordPress/WooCommerce component of the MineWebStore system. This plugin enab
 
 ## 📋 Requirements
 
-- **WordPress**: 6.0 or higher (tested up to 6.8.2)
-- **WooCommerce**: 8.0 or higher (tested up to 10.0.4)
+- **WordPress**: 6.0 or higher (tested up to 6.8)
+- **WooCommerce**: 8.0 or higher (tested up to 10.0)
 - **PHP**: 8.0 or higher (tested with 8.2)
 - **MySQL**: 8.0 or higher
 - **HPOS**: Compatible with High-Performance Order Storage

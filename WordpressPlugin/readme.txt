@@ -3,7 +3,7 @@ Contributors: akaliix
 Donate link: https://buymeacoffee.com/akaliix
 Tags: woocommerce, minecraft, ecommerce, shop
 Requires at least: 6.0
-Tested up to: 6.8.2
+Tested up to: 6.8
 Requires PHP: 8.0
 Stable tag: 1.0.0
 License: MIT
