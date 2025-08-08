@@ -4,7 +4,7 @@ main: com.github.Akaliix.MineWebStore.MineWebStorePlugin
 api-version: '1.18'
 description: WordPress WooCommerce integration plugin for Minecraft servers
 author: Akaliix
-website: https://github.com/Akaliix
+website: https://github.com/Akaliix/MineWebStore
 
 commands:
   mws:

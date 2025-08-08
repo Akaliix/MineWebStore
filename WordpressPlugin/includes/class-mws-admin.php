@@ -1,6 +1,6 @@
 <?php
 /**
- * Admin interface for MineWebStore Integration
+ * Admin interface for MineWebStore
  */
 
 // Prevent direct access
@@ -137,7 +137,7 @@ class MWS_Admin {
         ?>
         <div class="wrap">
             <h1><?php esc_html_e('MineWebStore Settings', 'minewebstore'); ?></h1>
-            <p class="description"><?php esc_html_e('Configure your MineWebStore integration settings and manage server connections.', 'minewebstore'); ?></p>
+            <p class="description"><?php esc_html_e('Configure your MineWebStore settings and manage server connections.', 'minewebstore'); ?></p>
             
             <div class="mws-admin-container">
                 <div class="mws-section">

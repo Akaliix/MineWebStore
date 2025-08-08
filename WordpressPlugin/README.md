@@ -1,11 +1,11 @@
-# MineWebStore Integration - WordPress Plugin
+# MineWebStore - WordPress Plugin
 
 [![WordPress Version](https://img.shields.io/badge/WordPress-6.0+-blue.svg)](https://wordpress.org/)
 [![WooCommerce Version](https://img.shields.io/badge/WooCommerce-8.0+-purple.svg)](https://woocommerce.com/)
 [![PHP Version](https://img.shields.io/badge/PHP-8.0+-777BB4.svg)](https://php.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The WordPress/WooCommerce component of the MineWebStore Integration system. This plugin enables automatic Minecraft command execution when WooCommerce products are purchased.
+The WordPress/WooCommerce component of the MineWebStore system. This plugin enables automatic Minecraft command execution when WooCommerce products are purchased.
 
 ## 🚀 Features
 
@@ -41,7 +41,7 @@ The WordPress/WooCommerce component of the MineWebStore Integration system. This
 
 ### From WordPress Plugin Directory
 1. Go to **Plugins → Add New** in your WordPress admin
-2. Search for "MineWebStore Integration"
+2. Search for "MineWebStore"
 3. Click **Install Now** and then **Activate**
 4. Navigate to **Minecraft** in your admin menu to configure
 
@@ -61,7 +61,7 @@ The WordPress/WooCommerce component of the MineWebStore Integration system. This
 
 ### Product Configuration
 1. Edit any WooCommerce product
-2. Scroll to the **Minecraft Integration** section
+2. Scroll to the **Minecraft** section
 3. Select the target Minecraft server
 4. Add commands using the `%player%` placeholder
 5. Configure execution modes and delays
@@ -225,11 +225,11 @@ cd MineWebStore/WordpressPlugin
 
 ### Getting Help
 - **Issues**: Report on [GitHub](https://github.com/Akaliix/MineWebStore/issues)
-- **WordPress Support**: [Plugin Support Forum](https://wordpress.org/support/plugin/minewebstore-integration/)
+- **Discord**: Join our community server [Community Discord](https://discord.gg/cG8XdnXMPE)
 
 ---
 
-**Part of the MineWebStore Integration System**
+**Part of the MineWebStore System**
 
 This WordPress plugin works in conjunction with our Minecraft server plugin to provide a complete e-commerce solution for Minecraft servers.
 

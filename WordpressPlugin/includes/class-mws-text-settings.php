@@ -1,6 +1,6 @@
 <?php
 /**
- * Text Settings Helper for MineWebStore Integration
+ * Text Settings Helper for MineWebStore
  */
 
 // Prevent direct access

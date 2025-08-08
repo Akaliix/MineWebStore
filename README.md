@@ -1,11 +1,11 @@
-# MineWebStore Integration
+# MineWebStore
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![WordPress Plugin](https://img.shields.io/badge/WordPress-Plugin-blue.svg)](https://wordpress.org/plugins/)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.18.x--1.21.x-green.svg)](https://minecraft.net/)
 [![Java Version](https://img.shields.io/badge/Java-17--21-orange.svg)](https://adoptium.net/)
 
-**MineWebStore Integration** is a comprehensive solution that bridges WooCommerce e-commerce platforms with Minecraft servers, enabling automatic command execution when products are purchased. This system consists of two main components: a WordPress plugin for WooCommerce integration and a Minecraft server plugin for command processing.
+**MineWebStore** is a comprehensive solution that bridges WooCommerce e-commerce platforms with Minecraft servers, enabling automatic command execution when products are purchased. This system consists of two main components: a WordPress plugin for WooCommerce integration and a Minecraft server plugin for command processing.
 
 ## 🚀 Features
 
@@ -32,7 +32,7 @@
 ### WordPress Admin Panel
 <img src="images/screenshots/wp-admin-panel-1.png" alt="WordPress Admin Panel - Main View" width="600">
 
-*Main WordPress admin panel showing MineWebStore integration settings*
+*Main WordPress admin panel showing MineWebStore settings*
 
 <img src="images/screenshots/wp-admin-panel-2.png" alt="WordPress Admin Panel - Configuration" width="600">
 
@@ -77,7 +77,7 @@
 #### Method 1: WordPress Plugin Store (Recommended)
 1. Navigate to your WordPress Admin Panel
 2. Go to **Plugins** → **Add New**
-3. Search for "MineWebStore Integration"
+3. Search for "MineWebStore"
 4. Click **Install Now** and then **Activate**
 
 #### Method 2: Manual Installation

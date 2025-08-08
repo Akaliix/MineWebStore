@@ -1,5 +1,5 @@
 /**
- * MineWebStore Integration - Admin JavaScript
+ * MineWebStore - Admin JavaScript
  */
 
 jQuery(document).ready(function($) {

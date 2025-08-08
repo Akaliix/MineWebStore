@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: MineWebStore Integration
+ * Plugin Name: MineWebStore
  * Plugin URI: https://github.com/Akaliix/MineWebStore
  * Description: Integrates WooCommerce with Minecraft servers to execute commands when products are purchased. Compatible with High-Performance Order Storage (HPOS).
  * Version: 1.0.0
  * Author: Akaliix
- * License: GPL v2 or later
+ * License: MIT
  * Text Domain: minewebstore
  * Requires at least: 6.0
  * Tested up to: 6.8.2
@@ -28,7 +28,7 @@ define('MWS_VERSION', '1.0.0');
 if (!in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_option('active_plugins')))) {
     add_action('admin_notices', function() {
         echo '<div class="notice notice-error"><p>' . 
-             esc_html__('MineWebStore Integration requires WooCommerce to be installed and activated.', 'minewebstore') . 
+             esc_html__('MineWebStore requires WooCommerce to be installed and activated.', 'minewebstore') . 
              '</p></div>';
     });
     return;

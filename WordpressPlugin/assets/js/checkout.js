@@ -1,5 +1,5 @@
 /**
- * MineWebStore Integration - Checkout JavaScript
+ * MineWebStore - Checkout JavaScript
  */
 
 jQuery(document).ready(function($) {

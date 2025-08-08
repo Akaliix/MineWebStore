@@ -4,7 +4,7 @@
 [![Java Version](https://img.shields.io/badge/Java-17--21-orange.svg)](https://adoptium.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The Minecraft server component of the MineWebStore Integration system. This plugin connects your Minecraft server to a WordPress/WooCommerce website, automatically executing commands when products are purchased.
+The Minecraft server component of the MineWebStore system. This plugin connects your Minecraft server to a WordPress/WooCommerce website, automatically executing commands when products are purchased.
 
 ## 🚀 Features
 
@@ -287,6 +287,6 @@ We welcome contributions to improve the Minecraft plugin:
 
 ---
 
-**Part of the MineWebStore Integration System**
+**Part of the MineWebStore System**
 
 For complete setup instructions and WordPress plugin information, see the [main project README](../README.md).

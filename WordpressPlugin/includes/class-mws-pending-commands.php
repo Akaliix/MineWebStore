@@ -1,6 +1,6 @@
 <?php
 /**
- * Pending Commands Manager for MineWebStore Integration
+ * Pending Commands Manager for MineWebStore
  * 
  * This class handles the creation, retrieval, and management of pending Minecraft commands
  * generated from WooCommerce orders. It provides backward compatibility for both
